@@ -46,4 +46,4 @@ $ ./strato-admin.sh --start
 
 - Cirrus search -> http://[your server ip]/cirrus/search/
 
-** Once you've the instance up and running with the API's, you can follow youtube tutorials to create a demo Dapp.
+**Once you've the instance up and running with the API's, you can follow youtube tutorials to create a demo Dapp.
