@@ -1,6 +1,5 @@
 # Strato-AWS-Setup
 
-# AWS Getting Started
 AWS Marketplace offer - getting started with BlockApps STRATO on AWS
 
 ## BlockApps STRATO instance on AWS marketplace
@@ -47,4 +46,4 @@ $ ./strato-admin.sh --start
 
 - Cirrus search -> http://[your server ip]/cirrus/search/
 
-Once you've the instance up and running with the API's, you can also explore our demo-app here: https://github.com/blockapps/blockapps-ba 
+##Once you've the instance up and running with the API's, you can follow youtube tutorials to create a demo Dapp.
